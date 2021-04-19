@@ -1,0 +1,39 @@
+.product-summary-container{
+    padding: 1rem;
+    background-color: #EDEDED;
+}
+.product-summary-container h2{
+    margin: 0;
+}
+
+
+
+.slick-prev{
+    left: 0 !important;
+}
+
+.slick-prev::before, .slick-next::before{
+    color: black;
+}
+
+.slick-prev, .slick-next{
+    z-index: 2;
+}
+
+.slick-next{
+    right: 0 !important;
+}
+
+.slick-list {
+    margin: 0 -5px;
+}
+.slick-slide>div {
+    padding: 0 5px;
+}
+
+.slick-slider .slick-list {
+    border: 2px solid grey;
+    background-color: white;
+    border-radius: 3px;
+    padding: 0.3rem;
+}

@@ -1,0 +1,11 @@
+.header-fixed{
+    padding: 3rem;
+    box-shadow: 2px 10px 7px grey;
+    margin-bottom: 2px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top:0;
+    z-index: 99;
+    background-color: white;
+}

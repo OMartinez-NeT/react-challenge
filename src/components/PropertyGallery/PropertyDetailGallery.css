@@ -1,0 +1,7 @@
+.main-picture-container{
+    background-color: grey;
+}
+
+img,.main-picture-container{
+    width: 100%;
+}

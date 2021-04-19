@@ -1,0 +1,10 @@
+.property-description-container{
+    position: fixed;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+.property-description-header{
+    padding: 2%;
+}
